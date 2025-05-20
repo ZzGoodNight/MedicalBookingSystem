@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "Name": "ivan",
+    "Phone": "3214124"
+  },
+  {
+    "Id": 2,
+    "Name": "antonm",
+    "Phone": "3214124"
+  },
+  {
+    "Id": 3,
+    "Name": "olena",
+    "Phone": "3124124"
+  }
+]

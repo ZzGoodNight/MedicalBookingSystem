@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "DoctorId": 1,
+    "PatientId": 1,
+    "PatientName": "ivan",
+    "PatientPhone": 0,
+    "Date": "2025-05-20T13:30:00",
+    "Status": "Очікується"
+  },
+  {
+    "Id": 2,
+    "DoctorId": 3,
+    "PatientId": 2,
+    "PatientName": "antonm",
+    "PatientPhone": 0,
+    "Date": "2025-05-20T14:00:00",
+    "Status": null
+  },
+  {
+    "Id": 3,
+    "DoctorId": 2,
+    "PatientId": 3,
+    "PatientName": "olena",
+    "PatientPhone": 0,
+    "Date": "2025-05-20T14:00:00",
+    "Status": null
+  }
+]
